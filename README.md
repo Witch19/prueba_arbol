@@ -1,4 +1,4 @@
-# prueba_arbol
+# Prueba_arbol
 
 # Lista Enlazada Genérica en C++
 
